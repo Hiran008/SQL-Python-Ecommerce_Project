@@ -1,4 +1,4 @@
-# **Ecommerce Data Analysis Project with SQL and Python**
+# **Ecom-Insight : Ecommerce Data Analysis Project with SQL and Python**
 
 ## 🚀 **Project Overview**
 
